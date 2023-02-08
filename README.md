@@ -29,7 +29,8 @@ Make virtual environment using venv in project root:
 Activate venv:
 ```venv\Scripts\Activate```
 
-Install the requirements, make migrations and start the server.
+Update the Pip, install the requirements, make migrations and start the server.
+```python -m pip install --upgrade pip```
 
 ```python -m pip install -r requirements.txt```
 
