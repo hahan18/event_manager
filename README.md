@@ -18,6 +18,9 @@ App using [Djoser](https://djoser.readthedocs.io/en/latest/getting_started.html)
 
 ## Installation
 
+Clone the repository:
+```git clone https://github.com/hahan18/event_manager.git```
+
 Event Manager requires [Python 3.10](https://www.python.org/downloads/release/python-3100/) to run.
 
 Make virtual environment using venv in project root:
