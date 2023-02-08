@@ -52,7 +52,13 @@ Djoser to make opportunity to create user using API.
 
 
 ## Docker
-Will be soon...
+To project using Docker, clone the repo:
+```git clone https://github.com/hahan18/event_manager.git```
+
+Inside the project root run ```docker compose up --build```
+Use ```http://127.0.0.1:8000/``` or ```http://localhost:8000/``` as the base url.
+
+
    
    
    
